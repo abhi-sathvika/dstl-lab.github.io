@@ -42,6 +42,7 @@ of undergraduate students:
   <li>Qirui (Sara) Zheng</li>
   <li>Ayush Shah</li>
   <li>Gabriel Cha</li>
+  <li>Abhi Sathvika Goriparthy</li>
 </ul>
 
 [sam]: https://www.samlau.me/
